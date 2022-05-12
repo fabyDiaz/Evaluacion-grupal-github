@@ -1,0 +1,46 @@
+.header {
+  color: #36A0FF;
+  font-size: 30px;
+  padding: 10px;
+}
+.container{
+  text-align: center;
+}
+
+footer{
+  text-align: right;
+  background-color: #004379;
+  color: aliceblue;
+}
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+
+
+aside{
+  text-align: center;
+}
+    
+    .imagen2{
+      width:300px;
+      height:300px;
+    }
+
+  
+
+   @media only screen and (max-width: 720px) {
+   .imagen{
+     width: 100%;
+   }
+  }
+
