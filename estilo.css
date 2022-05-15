@@ -7,6 +7,10 @@
   text-align: center;
 }
 
+.contactanos {
+  text-align: center;
+}
+
 footer{
   text-align: right;
   background-color: #004379;
@@ -43,4 +47,9 @@ aside{
      width: 100%;
    }
   }
-
+.col-md-12{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
